@@ -1,0 +1,15 @@
+[submodule "neetrust"]
+	path = neetrust
+	url = https://github.com/audacioustux/neetrust
+[submodule "AOC"]
+	path = AOC
+	url = https://github.com/audacioustux/AOC
+[submodule "rubiks-code"]
+	path = rubiks-code
+	url = https://github.com/audacioustux/rubiks-code
+[submodule "AOC-2022-RS"]
+	path = AOC-2022-RS
+	url = https://github.com/audacioustux/AOC-2022-RS
+[submodule "ojsol"]
+	path = ojsol
+	url = https://github.com/audacioustux/ojsol
