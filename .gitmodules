@@ -13,3 +13,6 @@
 [submodule "ojsol"]
 	path = ojsol
 	url = https://github.com/audacioustux/ojsol
+[submodule "exercism_rs"]
+	path = exercism_rs
+	url = https://github.com/audacioustux/exercism_rs
