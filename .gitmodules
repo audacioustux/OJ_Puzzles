@@ -16,3 +16,6 @@
 [submodule "exercism_rs"]
 	path = exercism_rs
 	url = https://github.com/audacioustux/exercism_rs
+[submodule "AOC-2023"]
+	path = AOC-2023
+	url = https://github.com/audacioustux/AOC-2023/
